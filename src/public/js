@@ -1,0 +1,6 @@
+
+    new Typewriter('#name', {
+  strings: ['Mohammed Abumadi'],
+  autoStart: true,
+  loop: true
+});
