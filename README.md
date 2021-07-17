@@ -1,4 +1,4 @@
-<h1>Simple Website For Your Curriculum Vitae </h1>
+<h3>Simple Website For Your Curriculum Vitae</h3>
 <hr width="90%">
 Made With Html & Css & JavaScript 
 <hr width="100%">
